@@ -25,7 +25,7 @@ Please follow up with updates about the tools by visiting Issues button.
 
 
 
-
+https://github.com/Althuwaynee/LaGriSU_Landslide-Grid-and-Slope-Units-QGIS_ToolPack/blob/main/new/giphy.gif?raw=true
 
 
 
