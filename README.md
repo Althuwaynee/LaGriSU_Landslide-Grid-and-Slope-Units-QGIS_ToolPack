@@ -4,14 +4,20 @@ LaGriSU v 0.2 (Landslide Grid and Slope Units): binary (1,0) samples extraction 
 
 * This is my first comment
 
-# News
+## News
 
 * Please follow up with updates about the tools by visiting Issues button
 
 **Omar F. AlThuwaynee**, *Developer* 
 
 
-![try2](https://user-images.githubusercontent.com/8848123/102017214-9038aa00-3d76-11eb-88e9-3f29da138ec4.gif)
+### Technical requirements and software compatibility
 
+Tool pack modules built of graphical modeler of QGIS [versions](https://qgis.org/downloads/) 3.4.0, 3.6.0 and 3.8.0.
 
-[General info](https://www.researchgate.net/profile/Omar_Althuwaynee3) # how to add hyperlink
+1.	Go to Settings > Options > Processing and under General change to Ignore features with invalid geometries.
+2.	Unzip tool pack to the QGIS library
+
+### In order to view the tool pack
+we must unzip the supplied folder (models.zip) to the “processing” folder inside the QGIS root folder, as follow:
+Open QGIS, go to processing > Copy the provided “model” folder> Models icon (red Engine) and choose Open existing model > paste provided “model” folder and replace with existing one.
