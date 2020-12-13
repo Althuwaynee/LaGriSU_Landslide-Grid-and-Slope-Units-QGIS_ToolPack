@@ -1,14 +1,12 @@
 # LaGriSU_Landslide-Grid-and-Slope-Units-QGIS_ToolPack
 
 LaGriSU v 0.2 (Landslide Grid and Slope Units): binary (1,0) samples extraction tool pack for landslides mapping in QGIS
+**Omar F. AlThuwaynee**, *Developer* 
 
-* This is my first comment
 
 ## News
 
 * Please follow up with updates about the tools by visiting Issues button
-
-**Omar F. AlThuwaynee**, *Developer* 
 
 
 ### Technical requirements and software compatibility
