@@ -10,7 +10,7 @@ LaGriSU v 0.2 (Landslide Grid and Slope Units): binary (1,0) samples extraction 
 * Tool provided a user-friendly experience to systematically learn (open box), visualize and validate the extracted samples stored in many different resultant layers (before and after to be merged), and to update the extracted samples whenever the features homogeneity was disturbed. 
 * Furthermore, the tool does not need any programing or advance GIS skills to be executed.
 
-To check the Tool version 0.1, please visit the [Udemy course]  (https://www.udemy.com/course/susceptibility-auto-mapping-tools-for-trainingtesting-data/ )
+To check the Tool version 0.1, please visit the [Udemy course](https://www.udemy.com/course/susceptibility-auto-mapping-tools-for-trainingtesting-data/)
 
 
 ## News
