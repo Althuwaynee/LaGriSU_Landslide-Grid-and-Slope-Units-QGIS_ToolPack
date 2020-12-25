@@ -870,7 +870,7 @@
         <Option type="int" value="2"/>
       </Option>
       <Option name="default" type="invalid"/>
-      <Option name="description" type="QString" value="Slides units class 1"/>
+      <Option name="description" type="QString" value="Slope Units class 1"/>
       <Option name="flags" type="int" value="0"/>
       <Option name="metadata"/>
       <Option name="name" type="QString" value="slidesunitsclass1"/>
