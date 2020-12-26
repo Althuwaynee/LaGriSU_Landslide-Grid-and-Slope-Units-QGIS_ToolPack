@@ -101,6 +101,31 @@ The tool is like the one mentioned earlier with GU extraction process.
 
 ## GU and SU extraction Tools pack :Case study of landslide inventory 
 
+
+## GRID UNIT tool pack
+
+![1](https://user-images.githubusercontent.com/8848123/103150558-6627b480-4786-11eb-95ca-623f4e51bd02.png)
+![2](https://user-images.githubusercontent.com/8848123/103150559-66c04b00-4786-11eb-9d3f-8c1208c0975d.png)
+![3](https://user-images.githubusercontent.com/8848123/103150560-6758e180-4786-11eb-8604-ad6ac3fa4da8.png)
+![4](https://user-images.githubusercontent.com/8848123/103150563-6758e180-4786-11eb-8268-96bb408c43e9.png)
+![5](https://user-images.githubusercontent.com/8848123/103150564-67f17800-4786-11eb-91a4-cee5bb1d1f4c.png)
+![6](https://user-images.githubusercontent.com/8848123/103150565-688a0e80-4786-11eb-89ea-df7fe0b5925d.png)
+![7](https://user-images.githubusercontent.com/8848123/103150566-6922a500-4786-11eb-9cc8-04fc29f24320.png)
+![8](https://user-images.githubusercontent.com/8848123/103150567-6922a500-4786-11eb-9d53-59c63ddb9d88.png)
+![9](https://user-images.githubusercontent.com/8848123/103150568-69bb3b80-4786-11eb-8880-fa108d1b262c.png)
+![10](https://user-images.githubusercontent.com/8848123/103150569-69bb3b80-4786-11eb-97e7-81e34d31a7ee.png)
+![11](https://user-images.githubusercontent.com/8848123/103150570-6a53d200-4786-11eb-82db-8f055e27f2b5.png)
+![12](https://user-images.githubusercontent.com/8848123/103150571-6aec6880-4786-11eb-85e8-21f6d3e99955.png)
+![13](https://user-images.githubusercontent.com/8848123/103150572-6aec6880-4786-11eb-945b-63819912bf8b.png)
+![14](https://user-images.githubusercontent.com/8848123/103150552-62942d80-4786-11eb-97ee-ffc4fe45115e.png)
+![15](https://user-images.githubusercontent.com/8848123/103150553-63c55a80-4786-11eb-8087-06f819b70580.png)
+![16](https://user-images.githubusercontent.com/8848123/103150554-645df100-4786-11eb-87fe-f007b609b1d0.png)
+![17](https://user-images.githubusercontent.com/8848123/103150556-658f1e00-4786-11eb-9ed9-0e37da6fd878.png)
+![18](https://user-images.githubusercontent.com/8848123/103150591-a38c4200-4786-11eb-800b-db14f88db5dc.png)
 ![Study area](https://user-images.githubusercontent.com/8848123/103150116-e39cf600-4781-11eb-82b2-3cd7c119a157.jpg)
 
 
+
+## SLOPE UNIT tool pack
+
+We will start over the process with extraction of study area and data entry of landslide locations and DEM raster only. 
