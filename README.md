@@ -129,3 +129,22 @@ The tool is like the one mentioned earlier with GU extraction process.
 ## SLOPE UNIT tool pack
 
 We will start over the process with extraction of study area and data entry of landslide locations and DEM raster only. 
+
+![19](https://user-images.githubusercontent.com/8848123/103150645-3cbb5880-4787-11eb-9ab1-ef428a4c414f.png)
+![20](https://user-images.githubusercontent.com/8848123/103150646-3cbb5880-4787-11eb-8cc2-ebd04984f200.png)
+![21](https://user-images.githubusercontent.com/8848123/103150647-3d53ef00-4787-11eb-8503-9e3e5ad04156.png)
+![22](https://user-images.githubusercontent.com/8848123/103150649-3f1db280-4787-11eb-8815-3ea8ca454be7.png)
+![23](https://user-images.githubusercontent.com/8848123/103150650-404edf80-4787-11eb-88fa-c23be160a5c4.png)
+![24](https://user-images.githubusercontent.com/8848123/103150651-40e77600-4787-11eb-83af-bf4087718260.png)
+![25](https://user-images.githubusercontent.com/8848123/103150652-40e77600-4787-11eb-8733-930bb29e33c1.png)
+![26](https://user-images.githubusercontent.com/8848123/103150653-41800c80-4787-11eb-9915-7e5fd5ba012c.png)
+![27](https://user-images.githubusercontent.com/8848123/103150654-4218a300-4787-11eb-9516-3090d9c019dc.png)
+![28](https://user-images.githubusercontent.com/8848123/103150657-4349d000-4787-11eb-9b99-a2dfc62819b9.png)
+![29](https://user-images.githubusercontent.com/8848123/103150660-43e26680-4787-11eb-93d8-7606150655b9.png)
+![30](https://user-images.githubusercontent.com/8848123/103150662-447afd00-4787-11eb-96e3-545ae7d6f760.png)
+![31](https://user-images.githubusercontent.com/8848123/103150663-45139380-4787-11eb-933a-d6096e805bfb.png)
+![32](https://user-images.githubusercontent.com/8848123/103150664-45ac2a00-4787-11eb-8bbc-da439c8cde66.png)
+![33](https://user-images.githubusercontent.com/8848123/103150644-3b8a2b80-4787-11eb-8d8a-1e6d6706c753.png)
+
+![results](https://user-images.githubusercontent.com/8848123/103150665-45ac2a00-4787-11eb-908a-04b6d14b8025.jpg)
+
