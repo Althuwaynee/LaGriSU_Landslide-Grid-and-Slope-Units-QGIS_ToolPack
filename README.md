@@ -87,12 +87,15 @@ The tool is like the one mentioned earlier with GU extraction process.
 The tools are like the one mentioned earlier with GU extraction process.
 
 ### 3-3-5 “3. SU Extract Landslides-free inventory”
+![334](https://user-images.githubusercontent.com/8848123/103149341-974db800-4779-11eb-8af7-a930156f6f5a.PNG)
 
-### 3-3-5 “4.a. SU Extract Training and Testing samples”
 
-### 3-3-6 “4.b. SU Extract conditioning factors values”
+### 3-3-6 “4.a. SU Extract Training and Testing samples”
+![335](https://user-images.githubusercontent.com/8848123/103149293-345c2100-4779-11eb-8f04-781932a9be66.PNG)
 
-The tools are like the one mentioned earlier with GU extraction process.
+### 3-3-7 “4.b. SU Extract conditioning factors values”
+
+![226](https://user-images.githubusercontent.com/8848123/103149139-d1b65580-4777-11eb-90bd-161c9c9a8997.jpg)
 
 
 
