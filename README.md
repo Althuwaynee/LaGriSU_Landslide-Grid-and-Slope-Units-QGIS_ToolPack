@@ -101,3 +101,6 @@ The tool is like the one mentioned earlier with GU extraction process.
 
 ## GU and SU extraction Tools pack :Case study of landslide inventory 
 
+![Study area](https://user-images.githubusercontent.com/8848123/103150116-e39cf600-4781-11eb-82b2-3cd7c119a157.jpg)
+
+
