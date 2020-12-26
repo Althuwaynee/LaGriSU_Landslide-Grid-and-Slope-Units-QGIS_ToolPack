@@ -38,23 +38,26 @@ Required input:
 •	DEM raster
 •	Optional: Landslide locations with polygon feature (polygons feature will be converted into points)
 
-2-2-1 “0. GU Extract Landslides area centroid and summary (optional)”
+## General description of the developed tools in the modeler environment 
+
+# 2-2-1 “0. GU Extract Landslides area centroid and summary (optional)”
 
 ![221](https://user-images.githubusercontent.com/8848123/103148884-91ee6e80-4775-11eb-927b-8376a3255855.jpg)
 
-2-2-2 “00. Extract Study area (Main basins)”
+# 2-2-2 “00. Extract Study area (Main basins)”
 
 ![222](https://user-images.githubusercontent.com/8848123/103148898-c2cea380-4775-11eb-954b-a5c301743c2b.jpg)
 
-2-2-2 “1.a GU Extract Slope values for original inventory”
+# 2-2-2 “1.a GU Extract Slope values for original inventory”
+![2221](https://user-images.githubusercontent.com/8848123/103148965-5bfdba00-4776-11eb-8dd6-ef20b9ae8cb7.jpg)
 
-2-2-3 “1.b GU Extracted Slope values for original inventory statistics”
+
+# 2-2-3 “1.b GU Extracted Slope values for original inventory statistics”
 
 ![223](https://user-images.githubusercontent.com/8848123/103148916-e396f900-4775-11eb-88b9-4aa66cc07b9a.jpg)
 
 
-
-2-2-4 “2. GU Extract Landslides-free inventory”
+# 2-2-4 “2. GU Extract Landslides-free inventory”
 ![224](https://user-images.githubusercontent.com/8848123/103148923-f6113280-4775-11eb-8e35-dc9421e23d57.jpg)
 
 
