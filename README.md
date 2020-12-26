@@ -84,7 +84,8 @@ The tool is like the one mentioned earlier with GU extraction process.
 ![333](https://user-images.githubusercontent.com/8848123/103149209-7f296900-4778-11eb-95b3-adf0a2573143.jpg)
 
 ### 3-3-4 “2.b. SU Extracted Slope values for original inventory statistics”
-The tools are like the one mentioned earlier with GU extraction process.
+![2221](https://user-images.githubusercontent.com/8848123/103148965-5bfdba00-4776-11eb-8dd6-ef20b9ae8cb7.jpg)
+![223](https://user-images.githubusercontent.com/8848123/103148916-e396f900-4775-11eb-88b9-4aa66cc07b9a.jpg)
 
 ### 3-3-5 “3. SU Extract Landslides-free inventory”
 ![334](https://user-images.githubusercontent.com/8848123/103149341-974db800-4779-11eb-8af7-a930156f6f5a.PNG)
@@ -96,6 +97,7 @@ The tools are like the one mentioned earlier with GU extraction process.
 ### 3-3-7 “4.b. SU Extract conditioning factors values”
 
 ![226](https://user-images.githubusercontent.com/8848123/103149139-d1b65580-4777-11eb-90bd-161c9c9a8997.jpg)
+----------------------------------------------------------------------------------------------------
 
-
+## GU and SU extraction Tools pack :Case study of landslide inventory 
 
