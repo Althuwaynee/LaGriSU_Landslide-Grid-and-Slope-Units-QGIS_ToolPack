@@ -75,10 +75,14 @@ Required input:
 ### 3-3-1 “0. Extract Study  area (Main basins)”
 
 The tool is like the one mentioned earlier with GU extraction process.
-
+![331](https://user-images.githubusercontent.com/8848123/103149204-7b95e200-4778-11eb-8357-ab305904b077.jpg)
 ### 3-3-2 “1. SU Landslides extraction”
 
+![332](https://user-images.githubusercontent.com/8848123/103149205-7d5fa580-4778-11eb-9796-2a0a51fbb46f.jpg)
+
 ### 3-3-3 “2.a. SU Extract Slope values for original inventory”
+![333](https://user-images.githubusercontent.com/8848123/103149209-7f296900-4778-11eb-95b3-adf0a2573143.jpg)
+
 ### 3-3-4 “2.b. SU Extracted Slope values for original inventory statistics”
 The tools are like the one mentioned earlier with GU extraction process.
 
