@@ -122,7 +122,6 @@ The tool is like the one mentioned earlier with GU extraction process.
 ![16](https://user-images.githubusercontent.com/8848123/103150554-645df100-4786-11eb-87fe-f007b609b1d0.png)
 ![17](https://user-images.githubusercontent.com/8848123/103150556-658f1e00-4786-11eb-9ed9-0e37da6fd878.png)
 ![18](https://user-images.githubusercontent.com/8848123/103150591-a38c4200-4786-11eb-800b-db14f88db5dc.png)
-![Study area](https://user-images.githubusercontent.com/8848123/103150116-e39cf600-4781-11eb-82b2-3cd7c119a157.jpg)
 
 
 
