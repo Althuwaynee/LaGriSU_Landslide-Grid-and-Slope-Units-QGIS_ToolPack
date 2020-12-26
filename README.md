@@ -40,6 +40,8 @@ Required input:
 
 ## General description of the developed tools in the modeler environment 
 
+## GRID UNIT (GU)
+
 ### 2-2-1 “0. GU Extract Landslides area centroid and summary (optional)”
 
 ![221](https://user-images.githubusercontent.com/8848123/103148884-91ee6e80-4775-11eb-927b-8376a3255855.jpg)
@@ -59,6 +61,34 @@ Required input:
 
 ### 2-2-4 “2. GU Extract Landslides-free inventory”
 ![224](https://user-images.githubusercontent.com/8848123/103148923-f6113280-4775-11eb-8e35-dc9421e23d57.jpg)
+
+
+### 2-2-5 “3.a. GU Extract Training and Testing samples”
+![225](https://user-images.githubusercontent.com/8848123/103149126-b0556980-4777-11eb-82f3-969ba14e2dc9.jpg)
+
+### 2-2-6 “3.b. GU Extract conditioning factors values”
+![226](https://user-images.githubusercontent.com/8848123/103149139-d1b65580-4777-11eb-90bd-161c9c9a8997.jpg)
+-------------------------------------------------------------------------------------------------------------------
+
+## SLOPE UNIT (SU)
+
+### 3-3-1 “0. Extract Study  area (Main basins)”
+
+The tool is like the one mentioned earlier with GU extraction process.
+
+### 3-3-2 “1. SU Landslides extraction”
+
+### 3-3-3 “2.a. SU Extract Slope values for original inventory”
+### 3-3-4 “2.b. SU Extracted Slope values for original inventory statistics”
+The tools are like the one mentioned earlier with GU extraction process.
+
+### 3-3-5 “3. SU Extract Landslides-free inventory”
+
+### 3-3-5 “4.a. SU Extract Training and Testing samples”
+
+### 3-3-6 “4.b. SU Extract conditioning factors values”
+
+The tools are like the one mentioned earlier with GU extraction process.
 
 
 
