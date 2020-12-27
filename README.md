@@ -4,10 +4,10 @@ LaGriSU v 0.2 (Landslide Grid and Slope Units): binary (1,0) samples extraction 
 
 **Omar F. AlThuwaynee**, *Developer* 
 Omar F. AlThuwaynee
-*GIS and Geomatics (Geo-Informatics) Engineering, PhD.
-*Scientists Adoption Academy (scadacademy.com)
-*Editorial Board: Landslides
-*ORCID: 0000-00019863-2046
+* *GIS and Geomatics (Geo-Informatics) Engineering, PhD.*
+* *Scientists Adoption Academy (scadacademy.com)*
+* *Editorial Board: Landslides*
+* *ORCID: 0000-00019863-2046*
 
 ## Introduction
 * LaGriSU, designed specifically for landslide mapping  applications,  developed in QGIS tool box modeler, The  Tool  Pack  does not requires  an  internet  connection or Java runtime environment at any stage (just copy and paste the modules in models library).
