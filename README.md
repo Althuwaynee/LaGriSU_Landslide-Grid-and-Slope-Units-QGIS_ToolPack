@@ -11,10 +11,6 @@ Omar F. AlThuwaynee
 
 ## Introduction
 * LaGriSU, designed specifically for landslide mapping  applications,  developed in QGIS tool box modeler, The  Tool  Pack  does not requires  an  internet  connection or Java runtime environment at any stage (just copy and paste the modules in models library).
-* The first version of QGIS.GSU V.01 was released in 2018, presented in online course “” as part of landslide susceptibility mapping tutorials. Since that time, 200 user was download and used the tool, and that let us collect all the complains, bugs, workability issues to be fix in the current V0.2.
-* Tool provided a user-friendly experience to systematically learn (open box), visualize and validate the extracted samples stored in many different resultant layers (before and after to be merged), and to update the extracted samples whenever the features homogeneity was disturbed. 
-* Furthermore, the tool does not need any programing or advance GIS skills to be executed.
-
 To check the Tool version 0.1, please visit the [Udemy course](https://www.udemy.com/course/susceptibility-auto-mapping-tools-for-trainingtesting-data/)
 
 
@@ -46,64 +42,6 @@ Open QGIS, go to processing > Copy the provided “model” folder> Models icon 
 •	Optional: Landslide locations with polygon feature (polygons feature will be converted into points)
 
 
-## 1- GRID UNIT (GU)
-
-### 1-0 “0. GU Extract Landslides area centroid and summary (optional)”
-
-![221](https://user-images.githubusercontent.com/8848123/103148884-91ee6e80-4775-11eb-927b-8376a3255855.jpg)
-
-### 1-1 “00. Extract Study area (Main basins)”
-
-![222](https://user-images.githubusercontent.com/8848123/103148898-c2cea380-4775-11eb-954b-a5c301743c2b.jpg)
-
-### 1-2 “1.a GU Extract Slope values for original inventory”
-![2221](https://user-images.githubusercontent.com/8848123/103148965-5bfdba00-4776-11eb-8dd6-ef20b9ae8cb7.jpg)
-
-
-### 1-3 “1.b GU Extracted Slope values for original inventory statistics”
-
-![223](https://user-images.githubusercontent.com/8848123/103148916-e396f900-4775-11eb-88b9-4aa66cc07b9a.jpg)
-
-
-### 1-4 “2. GU Extract Landslides-free inventory”
-![224](https://user-images.githubusercontent.com/8848123/103148923-f6113280-4775-11eb-8e35-dc9421e23d57.jpg)
-
-
-### 1-5 “3.a. GU Extract Training and Testing samples”
-![225](https://user-images.githubusercontent.com/8848123/103149126-b0556980-4777-11eb-82f3-969ba14e2dc9.jpg)
-
-### 1-6 “3.b. GU Extract conditioning factors values”
-![226](https://user-images.githubusercontent.com/8848123/103149139-d1b65580-4777-11eb-90bd-161c9c9a8997.jpg)
--------------------------------------------------------------------------------------------------------------------
-
-## 2-SLOPE UNIT (SU)
-
-### 2-1 “0. Extract Study  area (Main basins)”
-
-The tool is like the one mentioned earlier with GU extraction process.
-![331](https://user-images.githubusercontent.com/8848123/103149204-7b95e200-4778-11eb-8357-ab305904b077.jpg)
-### 2-2 “1. SU Landslides extraction”
-
-![332](https://user-images.githubusercontent.com/8848123/103149205-7d5fa580-4778-11eb-9796-2a0a51fbb46f.jpg)
-
-### 2-3 “2.a. SU Extract Slope values for original inventory”
-![333](https://user-images.githubusercontent.com/8848123/103149209-7f296900-4778-11eb-95b3-adf0a2573143.jpg)
-
-### 2-4 “2.b. SU Extracted Slope values for original inventory statistics”
-![2221](https://user-images.githubusercontent.com/8848123/103148965-5bfdba00-4776-11eb-8dd6-ef20b9ae8cb7.jpg)
-![223](https://user-images.githubusercontent.com/8848123/103148916-e396f900-4775-11eb-88b9-4aa66cc07b9a.jpg)
-
-### 2-5 “3. SU Extract Landslides-free inventory”
-![334](https://user-images.githubusercontent.com/8848123/103149341-974db800-4779-11eb-8af7-a930156f6f5a.PNG)
-
-
-### 2-6 “4.a. SU Extract Training and Testing samples”
-![335](https://user-images.githubusercontent.com/8848123/103149293-345c2100-4779-11eb-8f04-781932a9be66.PNG)
-
-### 2-7 “4.b. SU Extract conditioning factors values”
-
-![226](https://user-images.githubusercontent.com/8848123/103149139-d1b65580-4777-11eb-90bd-161c9c9a8997.jpg)
-----------------------------------------------------------------------------------------------------
 
 ## GU and SU extraction Tools pack :Case study of landslide inventory 
 
