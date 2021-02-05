@@ -25,8 +25,14 @@ Tool pack modules built of graphical modeler of QGIS [versions](https://qgis.org
 ..1.	Go to Settings > Options > Processing and under General change to Ignore features with invalid geometries...
 ..2.	Unzip tool pack to the QGIS library..
 
+## Download files
+
+1. In "Model" folder you can download files seperatly by right-click and "save link as".
+2. Or, download all the files using the link below:
+https://drive.google.com/drive/folders/1iCj2KdFpr9wcXcAZtt02LmFFZwfxd9Uz?usp=sharing
+
 ### In order to view the tool pack
-we must unzip the supplied folder (models.zip) to the “processing” folder inside the QGIS root folder, as follow:
+we must download the supplied folder (Models) to the “processing” folder inside the QGIS root folder, as follow:
 Open QGIS, go to processing > Copy the provided “model” folder> Models icon (red Engine) and choose Open existing model > paste provided “model” folder and replace with existing one.
 ![add models](https://user-images.githubusercontent.com/8848123/102022925-fa634600-3d9a-11eb-9b5e-51b17d35812f.gif)
 
