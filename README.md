@@ -9,11 +9,6 @@ Omar F. AlThuwaynee
 *Editorial Board: Landslides*
 *ORCID: 0000-00019863-2046*
 
-## Introduction
-* LaGriSU, designed specifically for landslide mapping  applications,  developed in QGIS tool box modeler, The  Tool  Pack  does not requires  an  internet  connection or Java runtime environment at any stage (just copy and paste the modules in models library).
-To check the Tool version 0.1, please visit the [Udemy course](https://www.udemy.com/course/susceptibility-auto-mapping-tools-for-trainingtesting-data/)
-
-
 ## Installation
 
 Tool pack modules built of graphical modeler of QGIS [versions](https://qgis.org/downloads/) 3.4.0, 3.6.0 and 3.8.0.
@@ -42,10 +37,7 @@ Open QGIS, go to processing > Copy the provided “model” folder> Models icon 
 •	Optional: Landslide locations with polygon feature (polygons feature will be converted into points)
 
 
-
-## GU and SU extraction Tools pack :Case study of landslide inventory 
-
-## 1- GRID UNIT tool pack
+## 1- GU tool pack
 
 ![1](https://user-images.githubusercontent.com/8848123/103150558-6627b480-4786-11eb-95ca-623f4e51bd02.png)
 ![2](https://user-images.githubusercontent.com/8848123/103150559-66c04b00-4786-11eb-9d3f-8c1208c0975d.png)
@@ -67,7 +59,7 @@ Open QGIS, go to processing > Copy the provided “model” folder> Models icon 
 ![18](https://user-images.githubusercontent.com/8848123/103150591-a38c4200-4786-11eb-800b-db14f88db5dc.png)
 
 
-## 2- SLOPE UNIT tool pack
+## 2- SU tool pack
 
 We will start over the process with extraction of study area and data entry of landslide locations and DEM raster only. 
 
