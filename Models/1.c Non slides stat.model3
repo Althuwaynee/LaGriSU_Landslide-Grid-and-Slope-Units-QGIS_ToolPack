@@ -43,7 +43,7 @@
   <Option name="help"/>
   <Option name="modelVariables"/>
   <Option name="model_group" type="QString" value="GU (Grid Unit) analysis"/>
-  <Option name="model_name" type="QString" value="1.b GU Extracted Slope values for original inventory statistics"/>
+  <Option name="model_name" type="QString" value="1.b GU Extracted Slope values statistics of original inventory"/>
   <Option name="parameterDefinitions" type="Map">
     <Option name="landslideswithinslopes" type="Map">
       <Option name="data_types" type="List">

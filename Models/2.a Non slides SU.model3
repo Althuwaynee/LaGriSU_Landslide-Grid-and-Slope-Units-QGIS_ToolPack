@@ -1,143 +1,173 @@
 <!DOCTYPE model>
 <Option type="Map">
-  <Option name="children" type="Map">
-    <Option name="qgis:fieldcalculator_1" type="Map">
-      <Option name="active" type="bool" value="true"/>
+  <Option type="Map" name="children">
+    <Option type="Map" name="gdal:slope_1">
+      <Option type="bool" name="active" value="true"/>
       <Option name="alg_config"/>
-      <Option name="alg_id" type="QString" value="qgis:fieldcalculator"/>
-      <Option name="component_description" type="QString" value="Field calculator"/>
-      <Option name="component_pos_x" type="double" value="345.79999999999995"/>
-      <Option name="component_pos_y" type="double" value="179"/>
+      <Option type="QString" name="alg_id" value="gdal:slope"/>
+      <Option type="QString" name="component_description" value="Slope"/>
+      <Option type="double" name="component_pos_x" value="590.3999999999999"/>
+      <Option type="double" name="component_pos_y" value="212.00000000000006"/>
       <Option name="dependencies"/>
-      <Option name="id" type="QString" value="qgis:fieldcalculator_1"/>
+      <Option type="QString" name="id" value="gdal:slope_1"/>
+      <Option type="Map" name="outputs">
+        <Option type="Map" name="Slope">
+          <Option type="QString" name="child_id" value="gdal:slope_1"/>
+          <Option type="QString" name="component_description" value="Slope"/>
+          <Option type="double" name="component_pos_x" value="869.6"/>
+          <Option type="double" name="component_pos_y" value="334.6"/>
+          <Option type="invalid" name="default_value"/>
+          <Option type="bool" name="mandatory" value="false"/>
+          <Option type="QString" name="name" value="Slope"/>
+          <Option type="QString" name="output_name" value="OUTPUT"/>
+        </Option>
+      </Option>
+      <Option type="bool" name="outputs_collapsed" value="true"/>
+      <Option type="bool" name="parameters_collapsed" value="true"/>
+      <Option type="Map" name="params">
+        <Option type="List" name="AS_PERCENT">
+          <Option type="Map">
+            <Option type="int" name="source" value="2"/>
+            <Option type="bool" name="static_value" value="false"/>
+          </Option>
+        </Option>
+        <Option type="List" name="BAND">
+          <Option type="Map">
+            <Option type="int" name="source" value="2"/>
+            <Option type="QString" name="static_value" value="1"/>
+          </Option>
+        </Option>
+        <Option type="List" name="COMPUTE_EDGES">
+          <Option type="Map">
+            <Option type="int" name="source" value="2"/>
+            <Option type="bool" name="static_value" value="false"/>
+          </Option>
+        </Option>
+        <Option type="List" name="INPUT">
+          <Option type="Map">
+            <Option type="QString" name="parameter_name" value="dem2"/>
+            <Option type="int" name="source" value="0"/>
+          </Option>
+        </Option>
+        <Option type="List" name="OPTIONS">
+          <Option type="Map">
+            <Option type="int" name="source" value="2"/>
+            <Option type="QString" name="static_value" value=""/>
+          </Option>
+        </Option>
+        <Option type="List" name="SCALE">
+          <Option type="Map">
+            <Option type="int" name="source" value="2"/>
+            <Option type="double" name="static_value" value="1"/>
+          </Option>
+        </Option>
+        <Option type="List" name="ZEVENBERGEN">
+          <Option type="Map">
+            <Option type="int" name="source" value="2"/>
+            <Option type="bool" name="static_value" value="false"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+    <Option type="Map" name="qgis:fieldcalculator_1">
+      <Option type="bool" name="active" value="true"/>
+      <Option name="alg_config"/>
+      <Option type="QString" name="alg_id" value="qgis:fieldcalculator"/>
+      <Option type="QString" name="component_description" value="Field calculator"/>
+      <Option type="double" name="component_pos_x" value="345.79999999999995"/>
+      <Option type="double" name="component_pos_y" value="179"/>
+      <Option name="dependencies"/>
+      <Option type="QString" name="id" value="qgis:fieldcalculator_1"/>
       <Option name="outputs"/>
-      <Option name="outputs_collapsed" type="bool" value="true"/>
-      <Option name="parameters_collapsed" type="bool" value="true"/>
-      <Option name="params" type="Map">
-        <Option name="FIELD_LENGTH" type="List">
+      <Option type="bool" name="outputs_collapsed" value="true"/>
+      <Option type="bool" name="parameters_collapsed" value="true"/>
+      <Option type="Map" name="params">
+        <Option type="List" name="FIELD_LENGTH">
           <Option type="Map">
-            <Option name="source" type="int" value="2"/>
-            <Option name="static_value" type="int" value="10"/>
+            <Option type="int" name="source" value="2"/>
+            <Option type="int" name="static_value" value="10"/>
           </Option>
         </Option>
-        <Option name="FIELD_NAME" type="List">
+        <Option type="List" name="FIELD_NAME">
           <Option type="Map">
-            <Option name="source" type="int" value="2"/>
-            <Option name="static_value" type="QString" value="DI"/>
+            <Option type="int" name="source" value="2"/>
+            <Option type="QString" name="static_value" value="DI"/>
           </Option>
         </Option>
-        <Option name="FIELD_PRECISION" type="List">
+        <Option type="List" name="FIELD_PRECISION">
           <Option type="Map">
-            <Option name="source" type="int" value="2"/>
-            <Option name="static_value" type="int" value="3"/>
+            <Option type="int" name="source" value="2"/>
+            <Option type="int" name="static_value" value="3"/>
           </Option>
         </Option>
-        <Option name="FIELD_TYPE" type="List">
+        <Option type="List" name="FIELD_TYPE">
           <Option type="Map">
-            <Option name="source" type="int" value="2"/>
-            <Option name="static_value" type="int" value="1"/>
+            <Option type="int" name="source" value="2"/>
+            <Option type="int" name="static_value" value="1"/>
           </Option>
         </Option>
-        <Option name="FORMULA" type="List">
+        <Option type="List" name="FORMULA">
           <Option type="Map">
-            <Option name="source" type="int" value="2"/>
-            <Option name="static_value" type="QString" value="1"/>
+            <Option type="int" name="source" value="2"/>
+            <Option type="QString" name="static_value" value="1"/>
           </Option>
         </Option>
-        <Option name="INPUT" type="List">
+        <Option type="List" name="INPUT">
           <Option type="Map">
-            <Option name="parameter_name" type="QString" value="landslidespoints"/>
-            <Option name="source" type="int" value="0"/>
+            <Option type="QString" name="parameter_name" value="landslidespoints"/>
+            <Option type="int" name="source" value="0"/>
           </Option>
         </Option>
-        <Option name="NEW_FIELD" type="List">
+        <Option type="List" name="NEW_FIELD">
           <Option type="Map">
-            <Option name="source" type="int" value="2"/>
-            <Option name="static_value" type="bool" value="true"/>
-          </Option>
-        </Option>
-      </Option>
-    </Option>
-    <Option name="qgis:slope_1" type="Map">
-      <Option name="active" type="bool" value="true"/>
-      <Option name="alg_config"/>
-      <Option name="alg_id" type="QString" value="qgis:slope"/>
-      <Option name="component_description" type="QString" value="Slope"/>
-      <Option name="component_pos_x" type="double" value="572"/>
-      <Option name="component_pos_y" type="double" value="178.99999999999994"/>
-      <Option name="dependencies"/>
-      <Option name="id" type="QString" value="qgis:slope_1"/>
-      <Option name="outputs" type="Map">
-        <Option name="Slope" type="Map">
-          <Option name="child_id" type="QString" value="qgis:slope_1"/>
-          <Option name="component_description" type="QString" value="Slope"/>
-          <Option name="component_pos_x" type="double" value="786.3999999999999"/>
-          <Option name="component_pos_y" type="double" value="207.20000000000002"/>
-          <Option name="default_value" type="invalid"/>
-          <Option name="mandatory" type="bool" value="false"/>
-          <Option name="name" type="QString" value="Slope"/>
-          <Option name="output_name" type="QString" value="OUTPUT"/>
-        </Option>
-      </Option>
-      <Option name="outputs_collapsed" type="bool" value="true"/>
-      <Option name="parameters_collapsed" type="bool" value="true"/>
-      <Option name="params" type="Map">
-        <Option name="INPUT" type="List">
-          <Option type="Map">
-            <Option name="parameter_name" type="QString" value="dem2"/>
-            <Option name="source" type="int" value="0"/>
-          </Option>
-        </Option>
-        <Option name="Z_FACTOR" type="List">
-          <Option type="Map">
-            <Option name="source" type="int" value="2"/>
-            <Option name="static_value" type="double" value="1"/>
+            <Option type="int" name="source" value="2"/>
+            <Option type="bool" name="static_value" value="true"/>
           </Option>
         </Option>
       </Option>
     </Option>
-    <Option name="saga:addrastervaluestofeatures_1" type="Map">
-      <Option name="active" type="bool" value="true"/>
+    <Option type="Map" name="saga:addrastervaluestofeatures_1">
+      <Option type="bool" name="active" value="true"/>
       <Option name="alg_config"/>
-      <Option name="alg_id" type="QString" value="saga:addrastervaluestofeatures"/>
-      <Option name="component_description" type="QString" value="Add raster values to features"/>
-      <Option name="component_pos_x" type="double" value="520"/>
-      <Option name="component_pos_y" type="double" value="253.5999999999999"/>
+      <Option type="QString" name="alg_id" value="saga:addrastervaluestofeatures"/>
+      <Option type="QString" name="component_description" value="Add raster values to features"/>
+      <Option type="double" name="component_pos_x" value="419.19999999999993"/>
+      <Option type="double" name="component_pos_y" value="297.59999999999997"/>
       <Option name="dependencies"/>
-      <Option name="id" type="QString" value="saga:addrastervaluestofeatures_1"/>
-      <Option name="outputs" type="Map">
-        <Option name="Landslides within Slopes" type="Map">
-          <Option name="child_id" type="QString" value="saga:addrastervaluestofeatures_1"/>
-          <Option name="component_description" type="QString" value="Landslides within Slopes"/>
-          <Option name="component_pos_x" type="double" value="736.8"/>
-          <Option name="component_pos_y" type="double" value="282.6000000000001"/>
-          <Option name="default_value" type="invalid"/>
-          <Option name="mandatory" type="bool" value="false"/>
-          <Option name="name" type="QString" value="Landslides within Slopes"/>
-          <Option name="output_name" type="QString" value="RESULT"/>
+      <Option type="QString" name="id" value="saga:addrastervaluestofeatures_1"/>
+      <Option type="Map" name="outputs">
+        <Option type="Map" name="Landslides within Slopes">
+          <Option type="QString" name="child_id" value="saga:addrastervaluestofeatures_1"/>
+          <Option type="QString" name="component_description" value="Landslides within Slopes"/>
+          <Option type="double" name="component_pos_x" value="594.4000000000001"/>
+          <Option type="double" name="component_pos_y" value="432.2"/>
+          <Option type="invalid" name="default_value"/>
+          <Option type="bool" name="mandatory" value="false"/>
+          <Option type="QString" name="name" value="Landslides within Slopes"/>
+          <Option type="QString" name="output_name" value="RESULT"/>
         </Option>
       </Option>
-      <Option name="outputs_collapsed" type="bool" value="true"/>
-      <Option name="parameters_collapsed" type="bool" value="true"/>
-      <Option name="params" type="Map">
-        <Option name="GRIDS" type="List">
+      <Option type="bool" name="outputs_collapsed" value="true"/>
+      <Option type="bool" name="parameters_collapsed" value="true"/>
+      <Option type="Map" name="params">
+        <Option type="List" name="GRIDS">
           <Option type="Map">
-            <Option name="child_id" type="QString" value="qgis:slope_1"/>
-            <Option name="output_name" type="QString" value="OUTPUT"/>
-            <Option name="source" type="int" value="1"/>
+            <Option type="QString" name="child_id" value="gdal:slope_1"/>
+            <Option type="QString" name="output_name" value="OUTPUT"/>
+            <Option type="int" name="source" value="1"/>
           </Option>
         </Option>
-        <Option name="RESAMPLING" type="List">
+        <Option type="List" name="RESAMPLING">
           <Option type="Map">
-            <Option name="source" type="int" value="2"/>
-            <Option name="static_value" type="int" value="0"/>
+            <Option type="int" name="source" value="2"/>
+            <Option type="int" name="static_value" value="0"/>
           </Option>
         </Option>
-        <Option name="SHAPES" type="List">
+        <Option type="List" name="SHAPES">
           <Option type="Map">
-            <Option name="child_id" type="QString" value="qgis:fieldcalculator_1"/>
-            <Option name="output_name" type="QString" value="OUTPUT"/>
-            <Option name="source" type="int" value="1"/>
+            <Option type="QString" name="child_id" value="qgis:fieldcalculator_1"/>
+            <Option type="QString" name="output_name" value="OUTPUT"/>
+            <Option type="int" name="source" value="1"/>
           </Option>
         </Option>
       </Option>
@@ -145,62 +175,62 @@
   </Option>
   <Option name="help"/>
   <Option name="modelVariables"/>
-  <Option name="model_group" type="QString" value="SU (Slope Unit) analysis"/>
-  <Option name="model_name" type="QString" value="2.a. SU Extract Slope values for original inventory"/>
-  <Option name="parameterDefinitions" type="Map">
-    <Option name="dem2" type="Map">
-      <Option name="default" type="invalid"/>
-      <Option name="description" type="QString" value="Study area DEM"/>
-      <Option name="flags" type="int" value="0"/>
+  <Option type="QString" name="model_group" value="SU (Slope Unit) analysis"/>
+  <Option type="QString" name="model_name" value="2.a. SU Extract Slope values for original inventory"/>
+  <Option type="Map" name="parameterDefinitions">
+    <Option type="Map" name="dem2">
+      <Option type="invalid" name="default"/>
+      <Option type="QString" name="description" value="Study area DEM"/>
+      <Option type="int" name="flags" value="0"/>
       <Option name="metadata"/>
-      <Option name="name" type="QString" value="dem2"/>
-      <Option name="parameter_type" type="QString" value="raster"/>
+      <Option type="QString" name="name" value="dem2"/>
+      <Option type="QString" name="parameter_type" value="raster"/>
     </Option>
-    <Option name="landslidespoints" type="Map">
-      <Option name="data_types" type="List">
+    <Option type="Map" name="gdal:slope_1:Slope">
+      <Option type="bool" name="create_by_default" value="true"/>
+      <Option type="invalid" name="default"/>
+      <Option type="QString" name="description" value="Slope"/>
+      <Option type="int" name="flags" value="0"/>
+      <Option name="metadata"/>
+      <Option type="QString" name="name" value="gdal:slope_1:Slope"/>
+      <Option type="QString" name="parameter_type" value="rasterDestination"/>
+      <Option type="bool" name="supports_non_file_outputs" value="false"/>
+    </Option>
+    <Option type="Map" name="landslidespoints">
+      <Option type="List" name="data_types">
         <Option type="int" value="5"/>
       </Option>
-      <Option name="default" type="invalid"/>
-      <Option name="description" type="QString" value="Landslides_points"/>
-      <Option name="flags" type="int" value="0"/>
+      <Option type="invalid" name="default"/>
+      <Option type="QString" name="description" value="Landslides_points"/>
+      <Option type="int" name="flags" value="0"/>
       <Option name="metadata"/>
-      <Option name="name" type="QString" value="landslidespoints"/>
-      <Option name="parameter_type" type="QString" value="vector"/>
+      <Option type="QString" name="name" value="landslidespoints"/>
+      <Option type="QString" name="parameter_type" value="vector"/>
     </Option>
-    <Option name="qgis:slope_1:Slope" type="Map">
-      <Option name="create_by_default" type="bool" value="true"/>
-      <Option name="default" type="invalid"/>
-      <Option name="description" type="QString" value="Slope"/>
-      <Option name="flags" type="int" value="0"/>
+    <Option type="Map" name="saga:addrastervaluestofeatures_1:Landslides within Slopes">
+      <Option type="bool" name="create_by_default" value="true"/>
+      <Option type="int" name="data_type" value="-1"/>
+      <Option type="invalid" name="default"/>
+      <Option type="QString" name="description" value="Landslides within Slopes"/>
+      <Option type="int" name="flags" value="0"/>
       <Option name="metadata"/>
-      <Option name="name" type="QString" value="qgis:slope_1:Slope"/>
-      <Option name="parameter_type" type="QString" value="rasterDestination"/>
-      <Option name="supports_non_file_outputs" type="bool" value="true"/>
-    </Option>
-    <Option name="saga:addrastervaluestofeatures_1:Landslides within Slopes" type="Map">
-      <Option name="create_by_default" type="bool" value="true"/>
-      <Option name="data_type" type="int" value="-1"/>
-      <Option name="default" type="invalid"/>
-      <Option name="description" type="QString" value="Landslides within Slopes"/>
-      <Option name="flags" type="int" value="0"/>
-      <Option name="metadata"/>
-      <Option name="name" type="QString" value="saga:addrastervaluestofeatures_1:Landslides within Slopes"/>
-      <Option name="parameter_type" type="QString" value="vectorDestination"/>
-      <Option name="supports_non_file_outputs" type="bool" value="false"/>
+      <Option type="QString" name="name" value="saga:addrastervaluestofeatures_1:Landslides within Slopes"/>
+      <Option type="QString" name="parameter_type" value="vectorDestination"/>
+      <Option type="bool" name="supports_non_file_outputs" value="false"/>
     </Option>
   </Option>
-  <Option name="parameters" type="Map">
-    <Option name="dem2" type="Map">
-      <Option name="component_description" type="QString" value="dem2"/>
-      <Option name="component_pos_x" type="double" value="573.5999999999999"/>
-      <Option name="component_pos_y" type="double" value="114.99999999999999"/>
-      <Option name="name" type="QString" value="dem2"/>
+  <Option type="Map" name="parameters">
+    <Option type="Map" name="dem2">
+      <Option type="QString" name="component_description" value="dem2"/>
+      <Option type="double" name="component_pos_x" value="569.5999999999999"/>
+      <Option type="double" name="component_pos_y" value="103.79999999999998"/>
+      <Option type="QString" name="name" value="dem2"/>
     </Option>
-    <Option name="landslidespoints" type="Map">
-      <Option name="component_description" type="QString" value="landslidespoints"/>
-      <Option name="component_pos_x" type="double" value="306"/>
-      <Option name="component_pos_y" type="double" value="111.39999999999998"/>
-      <Option name="name" type="QString" value="landslidespoints"/>
+    <Option type="Map" name="landslidespoints">
+      <Option type="QString" name="component_description" value="landslidespoints"/>
+      <Option type="double" name="component_pos_x" value="306"/>
+      <Option type="double" name="component_pos_y" value="111.39999999999998"/>
+      <Option type="QString" name="name" value="landslidespoints"/>
     </Option>
   </Option>
 </Option>
