@@ -1,18 +1,16 @@
 Download recomended versions of QGIS (3.10 or 3.14)
 
-Scripts work on both Windows and Linux opertaing systems.
+Watch the video for step by step instruction
 
-1- Download the Models folder to your pc.
 
-2- Open QGIS > Go to processing toolbox > click on python Icon and select "Add scripts to toolbox"
-
-3- add the scrips one by on..the files names and locations will be set automatically.
 
 For any questions, send me a message (Omar AlThuwaynee) on:
 scadacdemy.com
 
 Happy learning!
 
+
 Omar AlThuwaynee
 PhD GIS and Geomatics engineering
-15 Feb. 2022
+23 Feb. 2022
+scadacdemy.com
