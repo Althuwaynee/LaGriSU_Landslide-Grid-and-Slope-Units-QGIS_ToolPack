@@ -32,6 +32,6 @@ Open QGIS, go to processing > Copy the provided “model” folder> Models icon 
 ### Intro about the LaGriSU 2022 updates
 
 https://youtu.be/oim-dyc7haE
-
+![Capture](https://youtu.be/oim-dyc7haE)
 
 
