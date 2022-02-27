@@ -20,18 +20,14 @@ Tool pack modules built of graphical modeler of QGIS [versions](https://qgis.org
 ### In order to view the tool pack
 we must download the supplied folder (Models) to the “processing” folder inside the QGIS root folder, as follow:
 Open QGIS, go to processing > Copy the provided “model” folder> Models icon (red Engine) and choose Open existing model > paste provided “model” folder and replace with existing one.
-![add models](https://user-images.githubusercontent.com/8848123/102022925-fa634600-3d9a-11eb-9b5e-51b17d35812f.gif)
 
-
-![Capture](https://user-images.githubusercontent.com/8848123/102022770-08649700-3d9a-11eb-8b6f-99996676fcc8.PNG)
 
 
 ### Required input:
 •	Landslide locations with points OR polygons features
 •	DEM raster
 ### Intro about the LaGriSU 2022 updates
+https://github.com/Althuwaynee/LaGriSU_Landslide-Grid-and-Slope-Units-QGIS_ToolPack/issues/2#issue-1153250079
 
-https://youtu.be/oim-dyc7haE
-![Capture](https://youtu.be/oim-dyc7haE)
 
 
