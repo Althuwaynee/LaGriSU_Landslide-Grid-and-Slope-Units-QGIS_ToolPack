@@ -27,7 +27,8 @@ Open QGIS, go to processing > Copy the provided “model” folder> Models icon 
 •	Landslide locations with points OR polygons features
 •	DEM raster
 ### Intro about the LaGriSU 2022 updates
-https://github.com/Althuwaynee/LaGriSU_Landslide-Grid-and-Slope-Units-QGIS_ToolPack/issues/2#issue-1153250079
 
+https://youtu.be/oim-dyc7haE
+![su](https://user-images.githubusercontent.com/8848123/155884250-fa01a054-7032-4651-a77c-0a5c72d8b785.jpg)
 
 
