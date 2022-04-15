@@ -3,9 +3,9 @@
 LaGriSU v 0.2 (Landslide Grid and Slope Units): binary (1,0) samples extraction tool pack, used for landslides mapping.
 The tool developed in QGIS proccessing tools using SAGA and GDAL libraries.
 LaGriSU works both in windows and other operating systems.
-Previous version (version 1) was published on GitHub in August 2018, and the current version 2 (2022) comes with enhanced performance in term of pc resources and QGIS new versions.
 
-..The tool mainly based on the concept of the drainage network (i.e., the valley line) that is extracted from the original DEM data in order to generate the catchment basin in positive relief through the hydrological analysis module in QGIS.. 
+The tool mainly based on the concept of the drainage network (i.e., the valley line) that is extracted from the original DEM data in order to generate the catchment basin in positive relief through the hydrological analysis module in QGIS.
+Previous version (version 1) was published on GitHub in August 2018, and the current version 2 (2022) comes with enhanced performance in term of pc resources and QGIS new versions.
 
 
 
