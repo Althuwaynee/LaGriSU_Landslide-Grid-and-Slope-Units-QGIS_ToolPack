@@ -9,7 +9,7 @@ Previous version (version 1) was published on GitHub in August 2018, and the cur
 
 **Omar F. AlThuwaynee**, *Developer* 
 
-..*GIS and Geomatics (Geo-Informatics) Engineering, PhD.*..
+*GIS and Geomatics (Geo-Informatics) Engineering, PhD.*
 *Scientists Adoption Academy (scadacademy.com)*
 *Editorial Board: Landslides*
 *ORCID: 0000-00019863-2046*
