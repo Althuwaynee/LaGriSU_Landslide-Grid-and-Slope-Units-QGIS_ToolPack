@@ -21,7 +21,7 @@ Previous version (version 1) was published on GitHub in August 2018, and the cur
 
 ## Installation
 
-Last update: 2023_03_09
+*Last update: 2023_03_09
 
 Tool pack modules built of graphical modeler of QGIS [versions](https://qgis.org/downloads/) 3.14.
 
