@@ -1,4 +1,4 @@
-# LaGriSU_Landslide-Grid-and-Slope-Units-QGIS_ToolPack
+# LaGriSU (LandslideGrid and Slope Units) QGIS ToolPack
 
 LaGriSU v 0.2 (Landslide Grid and Slope Units): binary (1,0) samples extraction tool pack, used for landslides mapping.
 The tool developed in QGIS proccessing tools using SAGA and GDAL libraries.
@@ -20,6 +20,8 @@ Previous version (version 1) was published on GitHub in August 2018, and the cur
 *ORCID: 0000-00019863-2046*
 
 ## Installation
+
+Last update: 2023_03_09
 
 Tool pack modules built of graphical modeler of QGIS [versions](https://qgis.org/downloads/) 3.14.
 
