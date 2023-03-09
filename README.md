@@ -21,10 +21,13 @@ Previous version (version 1) was published on GitHub in August 2018, and the cur
 
 ## Installation
 
-Tool pack modules built of graphical modeler of QGIS [versions](https://qgis.org/downloads/) 3.4.0, 3.6.0 and 3.8.0.
+Tool pack modules built of graphical modeler of QGIS [versions](https://qgis.org/downloads/) 3.14.
+
 
 ..1.	Go to Settings > Options > Processing and under General change to Ignore features with invalid geometries...
 ..2.	Unzip tool pack to the QGIS library..
+
+![about](https://user-images.githubusercontent.com/8848123/223971220-a796886e-c641-4b70-abdd-53bdf95d2dfd.jpg)
 
 
 ### In order to view the tool pack
