@@ -46,5 +46,4 @@ Link to video:  https://youtu.be/oim-dyc7haE
 
 ![20221003_113703](https://user-images.githubusercontent.com/8848123/202452164-488f69cb-420e-42ae-ba0d-1b895e9d7c2d.jpg)
 
-![1](https://user-images.githubusercontent.com/8848123/202452679-24437882-3de8-4999-b3d4-5abde6c6d50b.jpg)
-![2](https://user-images.githubusercontent.com/8848123/202452804-531a14c0-a7c6-4f62-a7b4-c1f932f1fb4b.jpg)
+
